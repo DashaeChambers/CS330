@@ -1,0 +1,20 @@
+﻿  MainCode.cpp
+C:\Users\Administrator\Desktop\CS330Content\Utilities\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\Administrator\Desktop\CS330Content\Utilities\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\Administrator\Desktop\CS330Content\Utilities\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\Administrator\Desktop\CS330Content\Utilities\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\Administrator\Desktop\CS330Content\Utilities\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\Administrator\Desktop\CS330Content\Utilities\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+  8-2_Assignment.vcxproj -> C:\Users\Administrator\Desktop\CS330Content\Projects\8-2_Assignment\Debug\8-2_Assignment.exe
